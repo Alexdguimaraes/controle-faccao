@@ -1,0 +1,10 @@
+# Requisitos para desenvolvimento desktop
+kivy==2.2.1
+kivymd==1.1.1
+pillow
+bcrypt
+cffi
+
+# Para build Android (instalar separadamente):
+# buildozer
+# cython
